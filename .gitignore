@@ -35,5 +35,3 @@ dsl.d.ts
 *.obj
 *.o
 
-test/cobol85/result/
-test/cobol85/summary.txt
