@@ -2,6 +2,9 @@
 /Cargo.lock
 /target/
 
+# Ignore .DS_Store files
+.DS_Store
+
 # Node artifacts
 /build/
 /node_modules/
